@@ -1,22 +1,14 @@
-🚀 
-🚀 
-🚀 
-🚀 
-🚀 
-🚀 
-
 <h1 align="center"> 📦 Resources</h1> 
 
 <img src="assets/images/banner.png" alt="banner">
 
-><h2 align="center">Sites</h2>
+<h2 align="left"> 💻 Sites</h2><br>
 
-🚀 Idiomas
-🚀 Imagens
-🚀 Animações
-🚀 Ícones
-🚀 Ilustrações
-🚀 Emojis
-🚀 Paletas de cores
-🚀 Logos
-
+🚀 [Imagens](pages/sites/index.md)<br>
+🚀 Animações<br>
+🚀 Ícones<br>
+🚀 Ilustrações<br>
+🚀 Emojis<br>
+🚀 Paletas de cores<br>
+🚀 Logos<br>
+🚀 Idiomas<br>
