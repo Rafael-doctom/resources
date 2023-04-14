@@ -4,10 +4,10 @@
 
 <h2 align="left"> 💻 Sites</h2>
 
-🚀 [Imagens](pages/sites/index.md)<br>
+🚀 [Imagens](pages/sites/index.md#-images)<br>
 🚀 Animações<br>
 🚀 Ícones<br>
-🚀 Ilustrações<br>
+🚀 [Ilustrações](pages/sites/index.md#-illustrations)<br>
 🚀 Emojis<br>
 🚀 Paletas de cores<br>
 🚀 Logos<br>
