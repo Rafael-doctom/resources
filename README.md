@@ -1,8 +1,8 @@
-<h1 align="center"> 📦 Resources</h1> 
+<br><h1 align="center"> 📦 Resources</h1> 
 
 <img src="assets/images/banner.png" alt="banner">
 
-<h2 align="left"> 💻 Sites</h2><br>
+<h2 align="left"> 💻 Sites</h2>
 
 🚀 [Imagens](pages/sites/index.md)<br>
 🚀 Animações<br>
