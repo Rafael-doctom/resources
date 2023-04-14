@@ -1,4 +1,4 @@
-<br><h1 align="center"> 📦 Resources</h1> 
+<h1 align="center"> 📦 Resources</h1> 
 
 <img src="assets/images/banner.png" alt="banner">
 
