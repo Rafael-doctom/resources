@@ -4,8 +4,8 @@
 <table>
 
   <tr>
-    <th>NAME</th>
-    <th>LINK</th>
+    <th>Name</th>
+    <th>Url</th>
   </tr>
 
   <tr>
@@ -51,8 +51,8 @@
 <table>
 
   <tr>
-    <th>NAME</th>
-    <th>LINK</th>
+    <th>Name</th>
+    <th>Url</th>
   </tr>
 
   <tr>

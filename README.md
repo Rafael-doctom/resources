@@ -11,4 +11,4 @@
 🚀 Emojis<br>
 🚀 Paletas de cores<br>
 🚀 Logos<br>
-🚀 Idiomas<br>
+🚀 [Idiomas](pages/idiomas/all.md)<br>
